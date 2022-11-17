@@ -29,10 +29,6 @@
             echo "<button class='button' type='submit'>È magico?</button>";
             echo "</form>";
           ?>
-
-          <!-- <form action="forms.php" method="post">
-            <button class="button" type="submit">Genera</button>
-          </form> -->
         </div>
       </body>
 </div>
